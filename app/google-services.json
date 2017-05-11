@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073176533779",
+    "firebase_url": "https://psusmartparking.firebaseio.com",
+    "project_id": "psusmartparking",
+    "storage_bucket": "psusmartparking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073176533779:android:ca4a152aff23e998",
+        "android_client_info": {
+          "package_name": "com.example.n3w.psusmartparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073176533779-i8v9jh6rnno4n8tip6o6a7pc1sr45qkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.n3w.psusmartparking",
+            "certificate_hash": "dd1e1bf8ddbce11841af15beb32dca11a40632a5"
+          }
+        },
+        {
+          "client_id": "1073176533779-4r781p1ph63taq4ocj6f05kng4n8fo86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQfHBicOcOiMvy4eA7JOEDFnc-5zEQU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073176533779-4r781p1ph63taq4ocj6f05kng4n8fo86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
